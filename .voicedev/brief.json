@@ -1,0 +1,8 @@
+{
+  "name": "voicedev-pages-test",
+  "profile": "static-site",
+  "visibility": "public",
+  "description": "VoiceDev Repo Factory automatic GitHub Pages publication test",
+  "title": "VoiceDev Auto Publish Test",
+  "brief": "音声指示からGitHubリポジトリを自動作成し、GitHub Pagesまで全自動公開するE2Eテストです。"
+}
